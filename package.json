@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "// private": "Prevents accidental publishing to npm",
+  "type": "module",
+  "scripts": {
+    "tsc": "tsc"
+  },
+  "license": "Unlicense"
+}
