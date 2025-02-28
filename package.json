@@ -3,7 +3,7 @@
   "// private": "Prevents accidental publishing to npm",
   "type": "module",
   "scripts": {
-    "tsc": "tsc"
+    "build": "rm -rf ./dist/* && tsc"
   },
   "license": "Unlicense"
 }
