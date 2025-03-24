@@ -1,5 +1,5 @@
 {
-  "include": ["src/**/*", "test/**/*"],
+  "include": ["src/**/*"],
   "compilerOptions": {
     // Specified explicitly (not derived from source file paths)
     "rootDir": "src",
